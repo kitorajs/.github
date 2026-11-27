@@ -17,6 +17,10 @@
   <a href="https://kitorajs.github.io/docs">Docs</a>
 </p>
 
+<p align="center">
+  <a href="https://kitorajs.github.io"><img alt="The Kitora website: the home page with the tagline, Get started and Browse components" src="https://raw.githubusercontent.com/kitorajs/.github/main/profile/screenshots/landing.png" width="880"></a>
+</p>
+
 ## Try it now
 
 Kitora is in pre-release: it is not on npm yet and has no version numbers. Until it is stable, the compiled packages install straight from GitHub with pnpm.
@@ -41,6 +45,28 @@ import { Button } from "@kitora/ui/button"
 ```
 
 The full steps (peer dependencies, the Tailwind stylesheet lines, the pnpm 11 setting, pinning and updating a snapshot) are in the [packages README](https://github.com/kitorajs/packages#readme).
+
+## A look inside
+
+The component catalogue: 144 components on one design language, each with its variants, states and usage notes.
+
+<a href="https://kitorajs.github.io/components"><img alt="The component catalogue: 144 components on one design language, each with its variants, states and usage notes." src="https://raw.githubusercontent.com/kitorajs/.github/main/profile/screenshots/components.png" width="880"></a>
+
+The kits: each one a package with a gallery that runs every feature and shows its code.
+
+<a href="https://kitorajs.github.io/kits"><img alt="The kits: each one a package with a gallery that runs every feature and shows its code." src="https://raw.githubusercontent.com/kitorajs/.github/main/profile/screenshots/kits.png" width="880"></a>
+
+The data grid gallery: a users grid with search, filter, sort, group by, export and table, cards and kanban layouts.
+
+<a href="https://kitorajs.github.io/kits/datagrid"><img alt="The data grid gallery: a users grid with search, filter, sort, group by, export and table, cards and kanban layouts." src="https://raw.githubusercontent.com/kitorajs/.github/main/profile/screenshots/datagrid.png" width="880"></a>
+
+The form engine gallery: a simple form beside its live payload.
+
+<a href="https://kitorajs.github.io/kits/form"><img alt="The form engine gallery: a simple form beside its live payload." src="https://raw.githubusercontent.com/kitorajs/.github/main/profile/screenshots/form.png" width="880"></a>
+
+The templates: whole pages (task management, dashboard, inbox, settings, auth) to open and copy.
+
+<a href="https://kitorajs.github.io/templates"><img alt="The templates: whole pages (task management, dashboard, inbox, settings, auth) to open and copy." src="https://raw.githubusercontent.com/kitorajs/.github/main/profile/screenshots/templates.png" width="880"></a>
 
 ## Repositories
 
